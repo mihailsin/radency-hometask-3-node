@@ -1,0 +1,25 @@
+{
+  "name": "radency-hometask-3-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailsin/radency-hometask-3-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihailsin/radency-hometask-3-node/issues"
+  },
+  "homepage": "https://github.com/mihailsin/radency-hometask-3-node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
