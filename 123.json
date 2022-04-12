@@ -1,6 +1,16 @@
 [
   {
-    "id": "2",
+    "id": "nanoid(10)",
+    "name": "Shopping list",
+    "created": "20.01.2022",
+    "category": "Task",
+    "content": "Potatoes,Tomatoes",
+    "archived": false,
+    "active": true,
+    "dates": ""
+  },
+  {
+    "id": "nanoid(10)",
     "name": "New Feature",
     "created": "13.01.2022",
     "category": "Idea",
@@ -10,7 +20,7 @@
     "dates": ""
   },
   {
-    "id": "3",
+    "id": "nanoid(10)",
     "name": "Travelling",
     "created": "20.01.2022",
     "category": "Random Thought",
@@ -20,21 +30,11 @@
     "dates": ""
   },
   {
-    "id": "4",
+    "id": "nanoid(10)",
     "name": "1st Hometask",
     "created": "20.01.2022",
     "category": "Task",
     "content": "Finish all 3 hometasks",
-    "archived": false,
-    "active": true,
-    "dates": ""
-  },
-  {
-    "id": "VyuSR",
-    "name": "find a job in IT",
-    "created": "4/12/2022",
-    "category": "Idea",
-    "content": "get an offer until 01.06.2022",
     "archived": false,
     "active": true,
     "dates": ""
