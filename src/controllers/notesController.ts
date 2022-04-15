@@ -34,7 +34,11 @@ const getNotesStatsController = (req: Request, res: Response) => {
 		status: "success",
 		code: 200,
 		data: {
-			result: `There is an array of ${tasks.length} tasks currently on server.active: ${active.length};archived: ${archived.length}`,
+			result: {
+				tasks: tasks.length,
+				active: active.length,
+				archived: archived.length,
+			},
 		},
 	});
 };
